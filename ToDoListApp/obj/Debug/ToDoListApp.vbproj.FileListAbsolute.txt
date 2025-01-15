@@ -1,0 +1,12 @@
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe.config
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.pdb
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.xml
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.vbproj.AssemblyReference.cache
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.ToDoList.resources
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.Resources.resources
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.vbproj.GenerateResource.cache
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.vbproj.CoreCompileInputs.cache
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.exe
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.xml
+C:\Users\User 4\source\repos\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.pdb
